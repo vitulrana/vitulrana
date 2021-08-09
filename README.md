@@ -17,3 +17,7 @@ I am a Fullstack Developer and DevOps Enthusiast.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+**GitHub Stats:**  
+
+![Vitul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitulrana&show_icons=true)
